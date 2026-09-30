@@ -8,14 +8,14 @@ Me interesa construir aplicaciones útiles, escribir código limpio y convertir 
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-* 🎓 Estudiante de Ingeniería de Sistemas — 6.º semestre
-* 💻 Enfocada en desarrollo web y programación
-* 🌱 Actualmente fortaleciendo mis conocimientos en desarrollo **Frontend y Backend**
-* 📚 Aprendiendo y practicando constantemente mediante proyectos
-* 🌎 Mejorando mi inglés para desenvolverme en entornos tecnológicos internacionales
-* 🎯 Objetivo: construir un portafolio sólido y crecer profesionalmente como desarrolladora
+* Estudiante de Ingeniería de Sistemas — 6.º semestre
+* Enfocada en desarrollo web y programación
+* Actualmente fortaleciendo mis conocimientos en desarrollo **Frontend y Backend**
+* Aprendiendo y practicando constantemente mediante proyectos
+* Mejorando mi inglés para desenvolverme en entornos tecnológicos internacionales
+* Objetivo: construir un portafolio sólido y crecer profesionalmente como desarrolladora
 
 ---
 
